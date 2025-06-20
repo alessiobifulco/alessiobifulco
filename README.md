@@ -4,14 +4,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Alessio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessiobifulco&show_icons=true&theme=tokyonight&hide=issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alessiobifulco&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessiobifulco&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🔧 Tech Stack
@@ -34,5 +26,4 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=alessiobifulco&label=Profile%20views&color=0e75b6&style=flat)
 
